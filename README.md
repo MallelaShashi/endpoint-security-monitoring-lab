@@ -1,5 +1,4 @@
-# endpoint-security-monitoring-lab
-Endpoint Security Monitoring and Threat Analysis Lab using Metasploit, Process Explorer, TCPView, and Wireshark.
+
 # Endpoint Security Monitoring and Threat Analysis Lab
 
 ## Project Overview
